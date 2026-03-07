@@ -1,1 +1,1 @@
-Contenu squashtest2
+test squash 2
